@@ -118,7 +118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 719627091267500457}
   m_Layer: 0
-  m_Name: Bridge
+  m_Name: Bridge Bazar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
